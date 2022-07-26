@@ -1,0 +1,9 @@
+[
+  [
+    {
+      "op": "add",
+      "path": "/supportedContainers/itemId",
+      "value": ["/path/to/container.object"]
+    }
+  ]
+]

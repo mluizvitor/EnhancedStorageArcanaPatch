@@ -376,6 +376,35 @@
   },
   {
     "op": "add", "path": "/supportedContainers/orion_storage_7", "value": "objects/orion/orion_storage_7/orion_storage_7.object"
+  },
+
+  // Misc
+  {
+    "op": "add", "path": "/supportedContainers/arcana_misc_largeOutpostCrate", "value": "objects/arcana_misc/arcana_misc_largeOutpostCrate/arcana_misc_largeOutpostCrate.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_misc_tallOutpostCrate", "value": "objects/arcana_misc/arcana_misc_tallOutpostCrate/arcana_misc_tallOutpostCrate.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/bleuark_storage_1", "value": "objects/bleuark/bleuark_storage_1/bleuark_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/elysia_storage_1", "value": "objects/elysia/elysia_storage_1/elysia_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/empress_storage_1", "value": "objects/empress/empress_storage_1/empress_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/gaea_storage_1", "value": "objects/gaea/gaea_storage_1/gaea_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/hephaestus_storage_1", "value": "objects/hephaestus/hephaestus_storage_1/hephaestus_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcanianshiplocker", "value": "objects/ship/arcanianshiplocker/arcanianshiplocker.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/springpalms_storage_1", "value": "objects/springpalms/springpalms_storage_1/springpalms_storage_1.object"
   }
 ]
 

@@ -1,410 +1,634 @@
 [
   // Arcana Astral
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_bookcase_1", "value": "objects/arcana_astral/arcana_astral_bookcase_1/arcana_astral_bookcase_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_bookcase_1",
+    "value": "objects/arcana_astral/arcana_astral_bookcase_1/arcana_astral_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_1", "value": "objects/arcana_astral/arcana_astral_storage_1/arcana_astral_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_1",
+    "value": "objects/arcana_astral/arcana_astral_storage_1/arcana_astral_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_2", "value": "objects/arcana_astral/arcana_astral_storage_2/arcana_astral_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_2",
+    "value": "objects/arcana_astral/arcana_astral_storage_2/arcana_astral_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_3", "value": "objects/arcana_astral/arcana_astral_storage_3/arcana_astral_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_3",
+    "value": "objects/arcana_astral/arcana_astral_storage_3/arcana_astral_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_4", "value": "objects/arcana_astral/arcana_astral_storage_4/arcana_astral_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_4",
+    "value": "objects/arcana_astral/arcana_astral_storage_4/arcana_astral_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_5", "value": "objects/arcana_astral/arcana_astral_storage_5/arcana_astral_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_5",
+    "value": "objects/arcana_astral/arcana_astral_storage_5/arcana_astral_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_6", "value": "objects/arcana_astral/arcana_astral_storage_6/arcana_astral_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_6",
+    "value": "objects/arcana_astral/arcana_astral_storage_6/arcana_astral_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_7", "value": "objects/arcana_astral/arcana_astral_storage_7/arcana_astral_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_7",
+    "value": "objects/arcana_astral/arcana_astral_storage_7/arcana_astral_storage_7.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_8", "value": "objects/arcana_astral/arcana_astral_storage_8/arcana_astral_storage_8.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_8",
+    "value": "objects/arcana_astral/arcana_astral_storage_8/arcana_astral_storage_8.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_9", "value": "objects/arcana_astral/arcana_astral_storage_9/arcana_astral_storage_9.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_9",
+    "value": "objects/arcana_astral/arcana_astral_storage_9/arcana_astral_storage_9.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_astral_storage_10", "value": "objects/arcana_astral/arcana_astral_storage_10/arcana_astral_storage_10.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_astral_storage_10",
+    "value": "objects/arcana_astral/arcana_astral_storage_10/arcana_astral_storage_10.object"
   },
-
   // Arcana Exousia
   // Exousia Engineering
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_engineering_crate_1", "value": "objects/arcana_exousia/arcana_exousia_engineering/arcana_exousia_engineering_crate_1/arcana_exousia_engineering_crate_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_engineering_crate_1",
+    "value": "objects/arcana_exousia/arcana_exousia_engineering/arcana_exousia_engineering_crate_1/arcana_exousia_engineering_crate_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_engineering_crate_2", "value": "objects/arcana_exousia/arcana_exousia_engineering/arcana_exousia_engineering_crate_2/arcana_exousia_engineering_crate_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_engineering_crate_2",
+    "value": "objects/arcana_exousia/arcana_exousia_engineering/arcana_exousia_engineering_crate_2/arcana_exousia_engineering_crate_2.object"
   },
-
   // Exousia General
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_crate_1", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_1/arcana_exousia_general_crate_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_crate_1",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_1/arcana_exousia_general_crate_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_crate_2", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_2/arcana_exousia_general_crate_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_crate_2",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_2/arcana_exousia_general_crate_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_crate_3", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_3/arcana_exousia_general_crate_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_crate_3",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_3/arcana_exousia_general_crate_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_crate_4", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_4/arcana_exousia_general_crate_4.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_1", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_1/arcana_exousia_general_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_crate_4",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_crate_4/arcana_exousia_general_crate_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_2", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_2/arcana_exousia_general_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_1",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_1/arcana_exousia_general_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_3", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_3/arcana_exousia_general_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_2",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_2/arcana_exousia_general_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_4", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_4/arcana_exousia_general_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_3",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_3/arcana_exousia_general_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_5", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_5/arcana_exousia_general_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_4",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_4/arcana_exousia_general_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_general_storage_6", "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_6/arcana_exousia_general_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_5",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_5/arcana_exousia_general_storage_5.object"
   },
-
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_general_storage_6",
+    "value": "objects/arcana_exousia/arcana_exousia_general/arcana_exousia_general_storage_6/arcana_exousia_general_storage_6.object"
+  },
   // Exousia Medical
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_medical_storage_1", "value": "objects/arcana_exousia/arcana_exousia_medical/arcana_exousia_medical_storage_1/arcana_exousia_medical_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_medical_storage_1",
+    "value": "objects/arcana_exousia/arcana_exousia_medical/arcana_exousia_medical_storage_1/arcana_exousia_medical_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_medical_storage_2", "value": "objects/arcana_exousia/arcana_exousia_medical/arcana_exousia_medical_storage_2/arcana_exousia_medical_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_medical_storage_2",
+    "value": "objects/arcana_exousia/arcana_exousia_medical/arcana_exousia_medical_storage_2/arcana_exousia_medical_storage_2.object"
   },
-
   // Exousia Modern
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_fridge_1", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_fridge_1/arcana_exousia_modern_fridge_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_fridge_1",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_fridge_1/arcana_exousia_modern_fridge_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_fridge_2", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_fridge_2/arcana_exousia_modern_fridge_2.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_1", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_1/arcana_exousia_modern_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_fridge_2",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_fridge_2/arcana_exousia_modern_fridge_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_2", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_2/arcana_exousia_modern_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_1",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_1/arcana_exousia_modern_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_3", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_3/arcana_exousia_modern_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_2",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_2/arcana_exousia_modern_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_4", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_4/arcana_exousia_modern_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_3",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_3/arcana_exousia_modern_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_5", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_5/arcana_exousia_modern_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_4",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_4/arcana_exousia_modern_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_6", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_6/arcana_exousia_modern_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_5",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_5/arcana_exousia_modern_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_7", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_7/arcana_exousia_modern_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_6",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_6/arcana_exousia_modern_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_8", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_8/arcana_exousia_modern_storage_8.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_7",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_7/arcana_exousia_modern_storage_7.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_9", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_9/arcana_exousia_modern_storage_9.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_8",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_8/arcana_exousia_modern_storage_8.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_modern_storage_10", "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_10/arcana_exousia_modern_storage_10.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_9",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_9/arcana_exousia_modern_storage_9.object"
   },
-
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_modern_storage_10",
+    "value": "objects/arcana_exousia/arcana_exousia_modern/arcana_exousia_modern_storage_10/arcana_exousia_modern_storage_10.object"
+  },
   // Exousia Science
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_science_crate_1", "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_crate_1/arcana_exousia_science_crate_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_science_crate_1",
+    "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_crate_1/arcana_exousia_science_crate_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_science_crate_2", "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_crate_2/arcana_exousia_science_crate_2.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_science_storage_1", "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_1/arcana_exousia_science_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_science_crate_2",
+    "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_crate_2/arcana_exousia_science_crate_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_science_storage_2", "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_2/arcana_exousia_science_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_science_storage_1",
+    "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_1/arcana_exousia_science_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_science_storage_3", "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_3/arcana_exousia_science_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_science_storage_2",
+    "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_2/arcana_exousia_science_storage_2.object"
   },
-
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_science_storage_3",
+    "value": "objects/arcana_exousia/arcana_exousia_science/arcana_exousia_science_storage_3/arcana_exousia_science_storage_3.object"
+  },
   // Exousia Ship
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_crate_1", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_crate_1/arcana_exousia_ship_crate_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_crate_1",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_crate_1/arcana_exousia_ship_crate_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_crate_2", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_crate_2/arcana_exousia_ship_crate_2.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_1", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_1/arcana_exousia_ship_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_crate_2",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_crate_2/arcana_exousia_ship_crate_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_2", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_2/arcana_exousia_ship_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_1",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_1/arcana_exousia_ship_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_3", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_3/arcana_exousia_ship_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_2",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_2/arcana_exousia_ship_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_4", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_4/arcana_exousia_ship_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_3",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_3/arcana_exousia_ship_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_5", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_5/arcana_exousia_ship_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_4",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_4/arcana_exousia_ship_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_6", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_6/arcana_exousia_ship_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_5",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_5/arcana_exousia_ship_storage_5.object"
   },
-
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_exousia_ship_storage_6",
+    "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_6/arcana_exousia_ship_storage_6.object"
+  },
   // Arcana Lunar
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_1", "value": "objects/arcana_lunar/arcana_lunar_storage_1/arcana_lunar_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_1",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_1/arcana_lunar_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_2", "value": "objects/arcana_lunar/arcana_lunar_storage_2/arcana_lunar_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_2",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_2/arcana_lunar_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_3", "value": "objects/arcana_lunar/arcana_lunar_storage_3/arcana_lunar_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_3",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_3/arcana_lunar_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_4", "value": "objects/arcana_lunar/arcana_lunar_storage_4/arcana_lunar_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_4",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_4/arcana_lunar_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_5", "value": "objects/arcana_lunar/arcana_lunar_storage_5/arcana_lunar_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_5",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_5/arcana_lunar_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_6", "value": "objects/arcana_lunar/arcana_lunar_storage_6/arcana_lunar_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_6",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_6/arcana_lunar_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_7", "value": "objects/arcana_lunar/arcana_lunar_storage_7/arcana_lunar_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lunar_storage_7",
+    "value": "objects/arcana_lunar/arcana_lunar_storage_7/arcana_lunar_storage_7.object"
   },
-
   // Arcana Luye
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_bookcase_1", "value": "objects/arcana_luye/arcana_luye_bookcase_1/arcana_luye_bookcase_1.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_1", "value": "objects/arcana_luye/arcana_luye_storage_1/arcana_luye_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_bookcase_1",
+    "value": "objects/arcana_luye/arcana_luye_bookcase_1/arcana_luye_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_2", "value": "objects/arcana_luye/arcana_luye_storage_2/arcana_luye_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_1",
+    "value": "objects/arcana_luye/arcana_luye_storage_1/arcana_luye_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_3", "value": "objects/arcana_luye/arcana_luye_storage_3/arcana_luye_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_2",
+    "value": "objects/arcana_luye/arcana_luye_storage_2/arcana_luye_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_4", "value": "objects/arcana_luye/arcana_luye_storage_4/arcana_luye_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_3",
+    "value": "objects/arcana_luye/arcana_luye_storage_3/arcana_luye_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_5", "value": "objects/arcana_luye/arcana_luye_storage_5/arcana_luye_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_4",
+    "value": "objects/arcana_luye/arcana_luye_storage_4/arcana_luye_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_6", "value": "objects/arcana_luye/arcana_luye_storage_6/arcana_luye_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_5",
+    "value": "objects/arcana_luye/arcana_luye_storage_5/arcana_luye_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_7", "value": "objects/arcana_luye/arcana_luye_storage_7/arcana_luye_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_6",
+    "value": "objects/arcana_luye/arcana_luye_storage_6/arcana_luye_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_8", "value": "objects/arcana_luye/arcana_luye_storage_8/arcana_luye_storage_8.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_7",
+    "value": "objects/arcana_luye/arcana_luye_storage_7/arcana_luye_storage_7.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_storage_9", "value": "objects/arcana_luye/arcana_luye_storage_9/arcana_luye_storage_9.object"
-  },
-
-  {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_1", "value": "objects/arcana_luye/arcana_luye_wallstorage_1/arcana_luye_wallstorage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_8",
+    "value": "objects/arcana_luye/arcana_luye_storage_8/arcana_luye_storage_8.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_2", "value": "objects/arcana_luye/arcana_luye_wallstorage_2/arcana_luye_wallstorage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_storage_9",
+    "value": "objects/arcana_luye/arcana_luye_storage_9/arcana_luye_storage_9.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_3", "value": "objects/arcana_luye/arcana_luye_wallstorage_3/arcana_luye_wallstorage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_1",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_1/arcana_luye_wallstorage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_4", "value": "objects/arcana_luye/arcana_luye_wallstorage_4/arcana_luye_wallstorage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_2",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_2/arcana_luye_wallstorage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_5", "value": "objects/arcana_luye/arcana_luye_wallstorage_5/arcana_luye_wallstorage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_3",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_3/arcana_luye_wallstorage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_6", "value": "objects/arcana_luye/arcana_luye_wallstorage_6/arcana_luye_wallstorage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_4",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_4/arcana_luye_wallstorage_4.object"
   },
-
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_5",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_5/arcana_luye_wallstorage_5.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/arcana_luye_wallstorage_6",
+    "value": "objects/arcana_luye/arcana_luye_wallstorage_6/arcana_luye_wallstorage_6.object"
+  },
   // Arcana Lykoi
   {
-    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_1", "value": "objects/arcana_lykoi/arcana_lykoi_storage_1/arcana_lykoi_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lykoi_storage_1",
+    "value": "objects/arcana_lykoi/arcana_lykoi_storage_1/arcana_lykoi_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_2", "value": "objects/arcana_lykoi/arcana_lykoi_storage_2/arcana_lykoi_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lykoi_storage_2",
+    "value": "objects/arcana_lykoi/arcana_lykoi_storage_2/arcana_lykoi_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_3", "value": "objects/arcana_lykoi/arcana_lykoi_storage_3/arcana_lykoi_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_lykoi_storage_3",
+    "value": "objects/arcana_lykoi/arcana_lykoi_storage_3/arcana_lykoi_storage_3.object"
   },
-
   // Arcana Steelblades
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_1", "value": "objects/arcana_steelblades/arcana_steelblades_storage_1/arcana_steelblades_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_1",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_1/arcana_steelblades_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_2", "value": "objects/arcana_steelblades/arcana_steelblades_storage_2/arcana_steelblades_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_2",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_2/arcana_steelblades_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_3", "value": "objects/arcana_steelblades/arcana_steelblades_storage_3/arcana_steelblades_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_3",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_3/arcana_steelblades_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_4", "value": "objects/arcana_steelblades/arcana_steelblades_storage_4/arcana_steelblades_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_4",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_4/arcana_steelblades_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_5", "value": "objects/arcana_steelblades/arcana_steelblades_storage_5/arcana_steelblades_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_5",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_5/arcana_steelblades_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_6", "value": "objects/arcana_steelblades/arcana_steelblades_storage_6/arcana_steelblades_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_6",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_6/arcana_steelblades_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_7", "value": "objects/arcana_steelblades/arcana_steelblades_storage_7/arcana_steelblades_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_7",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_7/arcana_steelblades_storage_7.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_8", "value": "objects/arcana_steelblades/arcana_steelblades_storage_8/arcana_steelblades_storage_8.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_steelblades_storage_8",
+    "value": "objects/arcana_steelblades/arcana_steelblades_storage_8/arcana_steelblades_storage_8.object"
   },
-
   // Havencrest
   {
-    "op": "add", "path": "/supportedContainers/havencrest_bookcase_1", "value": "objects/havencrest/havencrest_bookcase_1/havencrest_bookcase_1.object"
+    "op": "add",
+    "path": "/supportedContainers/havencrest_bookcase_1",
+    "value": "objects/havencrest/havencrest_bookcase_1/havencrest_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/havencrest_storage_1", "value": "objects/havencrest/havencrest_storage_1/havencrest_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/havencrest_storage_1",
+    "value": "objects/havencrest/havencrest_storage_1/havencrest_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/havencrest_storage_2", "value": "objects/havencrest/havencrest_storage_2/havencrest_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/havencrest_storage_2",
+    "value": "objects/havencrest/havencrest_storage_2/havencrest_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/havencrest_storage_3", "value": "objects/havencrest/havencrest_storage_3/havencrest_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/havencrest_storage_3",
+    "value": "objects/havencrest/havencrest_storage_3/havencrest_storage_3.object"
   },
-
   // Horizon
   {
-    "op": "add", "path": "/supportedContainers/horizon_bookcase_1", "value": "objects/horizon/horizon_bookcase_1/horizon_bookcase_1.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_bookcase_1",
+    "value": "objects/horizon/horizon_bookcase_1/horizon_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_1", "value": "objects/horizon/horizon_storage_1/horizon_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_1",
+    "value": "objects/horizon/horizon_storage_1/horizon_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_2", "value": "objects/horizon/horizon_storage_2/horizon_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_2",
+    "value": "objects/horizon/horizon_storage_2/horizon_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_3", "value": "objects/horizon/horizon_storage_3/horizon_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_3",
+    "value": "objects/horizon/horizon_storage_3/horizon_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_4", "value": "objects/horizon/horizon_storage_4/horizon_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_4",
+    "value": "objects/horizon/horizon_storage_4/horizon_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_5", "value": "objects/horizon/horizon_storage_5/horizon_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_5",
+    "value": "objects/horizon/horizon_storage_5/horizon_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/horizon_storage_6", "value": "objects/horizon/horizon_storage_6/horizon_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/horizon_storage_6",
+    "value": "objects/horizon/horizon_storage_6/horizon_storage_6.object"
   },
-
   // Monarch
   {
-    "op": "add", "path": "/supportedContainers/monarch_bookcase_1", "value": "objects/monarch/monarch_bookcase_1/monarch_bookcase_1.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_bookcase_1",
+    "value": "objects/monarch/monarch_bookcase_1/monarch_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_bookcase_2", "value": "objects/monarch/monarch_bookcase_2/monarch_bookcase_2.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_bookcase_2",
+    "value": "objects/monarch/monarch_bookcase_2/monarch_bookcase_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_bookcase_3", "value": "objects/monarch/monarch_bookcase_3/monarch_bookcase_3.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_bookcase_3",
+    "value": "objects/monarch/monarch_bookcase_3/monarch_bookcase_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_bookcase_4", "value": "objects/monarch/monarch_bookcase_4/monarch_bookcase_4.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_bookcase_4",
+    "value": "objects/monarch/monarch_bookcase_4/monarch_bookcase_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_storage_1", "value": "objects/monarch/monarch_storage_1/monarch_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_storage_1",
+    "value": "objects/monarch/monarch_storage_1/monarch_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_storage_2", "value": "objects/monarch/monarch_storage_2/monarch_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_storage_2",
+    "value": "objects/monarch/monarch_storage_2/monarch_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_storage_3", "value": "objects/monarch/monarch_storage_3/monarch_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_storage_3",
+    "value": "objects/monarch/monarch_storage_3/monarch_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_storage_4", "value": "objects/monarch/monarch_storage_4/monarch_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_storage_4",
+    "value": "objects/monarch/monarch_storage_4/monarch_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/monarch_storage_5", "value": "objects/monarch/monarch_storage_5/monarch_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/monarch_storage_5",
+    "value": "objects/monarch/monarch_storage_5/monarch_storage_5.object"
   },
-
   // Orion
   {
-    "op": "add", "path": "/supportedContainers/orion_bookcase_1", "value": "objects/orion/orion_bookcase_1/orion_bookcase_1.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_bookcase_1",
+    "value": "objects/orion/orion_bookcase_1/orion_bookcase_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_bookcase_2", "value": "objects/orion/orion_bookcase_2/orion_bookcase_2.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_bookcase_2",
+    "value": "objects/orion/orion_bookcase_2/orion_bookcase_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_bookcase_3", "value": "objects/orion/orion_bookcase_3/orion_bookcase_3.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_bookcase_3",
+    "value": "objects/orion/orion_bookcase_3/orion_bookcase_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_1", "value": "objects/orion/orion_storage_1/orion_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_1",
+    "value": "objects/orion/orion_storage_1/orion_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_2", "value": "objects/orion/orion_storage_2/orion_storage_2.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_2",
+    "value": "objects/orion/orion_storage_2/orion_storage_2.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_3", "value": "objects/orion/orion_storage_3/orion_storage_3.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_3",
+    "value": "objects/orion/orion_storage_3/orion_storage_3.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_4", "value": "objects/orion/orion_storage_4/orion_storage_4.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_4",
+    "value": "objects/orion/orion_storage_4/orion_storage_4.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_5", "value": "objects/orion/orion_storage_5/orion_storage_5.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_5",
+    "value": "objects/orion/orion_storage_5/orion_storage_5.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_6", "value": "objects/orion/orion_storage_6/orion_storage_6.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_6",
+    "value": "objects/orion/orion_storage_6/orion_storage_6.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/orion_storage_7", "value": "objects/orion/orion_storage_7/orion_storage_7.object"
+    "op": "add",
+    "path": "/supportedContainers/orion_storage_7",
+    "value": "objects/orion/orion_storage_7/orion_storage_7.object"
   },
-
   // Misc
   {
-    "op": "add", "path": "/supportedContainers/arcana_misc_largeOutpostCrate", "value": "objects/arcana_misc/arcana_misc_largeOutpostCrate/arcana_misc_largeOutpostCrate.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_misc_largeOutpostCrate",
+    "value": "objects/arcana_misc/arcana_misc_largeOutpostCrate/arcana_misc_largeOutpostCrate.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcana_misc_tallOutpostCrate", "value": "objects/arcana_misc/arcana_misc_tallOutpostCrate/arcana_misc_tallOutpostCrate.object"
+    "op": "add",
+    "path": "/supportedContainers/arcana_misc_tallOutpostCrate",
+    "value": "objects/arcana_misc/arcana_misc_tallOutpostCrate/arcana_misc_tallOutpostCrate.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/bleuark_storage_1", "value": "objects/bleuark/bleuark_storage_1/bleuark_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/bleuark_storage_1",
+    "value": "objects/bleuark/bleuark_storage_1/bleuark_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/elysia_storage_1", "value": "objects/elysia/elysia_storage_1/elysia_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/elysia_storage_1",
+    "value": "objects/elysia/elysia_storage_1/elysia_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/empress_storage_1", "value": "objects/empress/empress_storage_1/empress_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/empress_storage_1",
+    "value": "objects/empress/empress_storage_1/empress_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/gaea_storage_1", "value": "objects/gaea/gaea_storage_1/gaea_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/gaea_storage_1",
+    "value": "objects/gaea/gaea_storage_1/gaea_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/hephaestus_storage_1", "value": "objects/hephaestus/hephaestus_storage_1/hephaestus_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/hephaestus_storage_1",
+    "value": "objects/hephaestus/hephaestus_storage_1/hephaestus_storage_1.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/arcanianshiplocker", "value": "objects/ship/arcanianshiplocker/arcanianshiplocker.object"
+    "op": "add",
+    "path": "/supportedContainers/arcanianshiplocker",
+    "value": "objects/ship/arcanianshiplocker/arcanianshiplocker.object"
   },
   {
-    "op": "add", "path": "/supportedContainers/springpalms_storage_1", "value": "objects/springpalms/springpalms_storage_1/springpalms_storage_1.object"
+    "op": "add",
+    "path": "/supportedContainers/springpalms_storage_1",
+    "value": "objects/springpalms/springpalms_storage_1/springpalms_storage_1.object"
   }
 ]
-

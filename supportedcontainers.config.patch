@@ -292,6 +292,29 @@
   },
   {
     "op": "add", "path": "/supportedContainers/havencrest_storage_3", "value": "objects/havencrest/havencrest_storage_3/havencrest_storage_3.object"
+  },
+
+  // Horizon
+  {
+    "op": "add", "path": "/supportedContainers/horizon_bookcase_1", "value": "objects/horizon/horizon_bookcase_1/horizon_bookcase_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_1", "value": "objects/horizon/horizon_storage_1/horizon_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_2", "value": "objects/horizon/horizon_storage_2/horizon_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_3", "value": "objects/horizon/horizon_storage_3/horizon_storage_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_4", "value": "objects/horizon/horizon_storage_4/horizon_storage_4.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_5", "value": "objects/horizon/horizon_storage_5/horizon_storage_5.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/horizon_storage_6", "value": "objects/horizon/horizon_storage_6/horizon_storage_6.object"
   }
 ]
 

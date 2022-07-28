@@ -1,11 +1,11 @@
 {
   "author" : "Lubius",
-  "description" : "Enhanced Storage support for Arcana",
+  "description" : "Enable Enhanced Storage features for Arcana crates, chests and other storages",
   "friendlyName" : "Enhanced Storage Patch for Arcana",
   "includes" : ["Enhanced Storage", "Arcana"],
   "link" : "steam://url/CommunityFilePage/2840941078",
   "name" : "Enhanced Storage Patch for Arcana",
   "steamContentId" : "2840941078",
   "tags" : "Furniture and Objects",
-  "version" : "1"
+  "version" : "1.1"
 }

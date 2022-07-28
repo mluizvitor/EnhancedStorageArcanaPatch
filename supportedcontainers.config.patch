@@ -315,6 +315,35 @@
   },
   {
     "op": "add", "path": "/supportedContainers/horizon_storage_6", "value": "objects/horizon/horizon_storage_6/horizon_storage_6.object"
+  },
+
+  // Monarch
+  {
+    "op": "add", "path": "/supportedContainers/monarch_bookcase_1", "value": "objects/monarch/monarch_bookcase_1/monarch_bookcase_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_bookcase_2", "value": "objects/monarch/monarch_bookcase_2/monarch_bookcase_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_bookcase_3", "value": "objects/monarch/monarch_bookcase_3/monarch_bookcase_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_bookcase_4", "value": "objects/monarch/monarch_bookcase_4/monarch_bookcase_4.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_storage_1", "value": "objects/monarch/monarch_storage_1/monarch_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_storage_2", "value": "objects/monarch/monarch_storage_2/monarch_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_storage_3", "value": "objects/monarch/monarch_storage_3/monarch_storage_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_storage_4", "value": "objects/monarch/monarch_storage_4/monarch_storage_4.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/monarch_storage_5", "value": "objects/monarch/monarch_storage_5/monarch_storage_5.object"
   }
 ]
 

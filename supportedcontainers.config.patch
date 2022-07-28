@@ -344,6 +344,38 @@
   },
   {
     "op": "add", "path": "/supportedContainers/monarch_storage_5", "value": "objects/monarch/monarch_storage_5/monarch_storage_5.object"
+  },
+
+  // Orion
+  {
+    "op": "add", "path": "/supportedContainers/orion_bookcase_1", "value": "objects/orion/orion_bookcase_1/orion_bookcase_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_bookcase_2", "value": "objects/orion/orion_bookcase_2/orion_bookcase_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_bookcase_3", "value": "objects/orion/orion_bookcase_3/orion_bookcase_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_1", "value": "objects/orion/orion_storage_1/orion_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_2", "value": "objects/orion/orion_storage_2/orion_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_3", "value": "objects/orion/orion_storage_3/orion_storage_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_4", "value": "objects/orion/orion_storage_4/orion_storage_4.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_5", "value": "objects/orion/orion_storage_5/orion_storage_5.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_6", "value": "objects/orion/orion_storage_6/orion_storage_6.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/orion_storage_7", "value": "objects/orion/orion_storage_7/orion_storage_7.object"
   }
 ]
 

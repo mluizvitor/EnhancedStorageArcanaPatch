@@ -241,6 +241,17 @@
   },
   {
     "op": "add", "path": "/supportedContainers/arcana_luye_wallstorage_6", "value": "objects/arcana_luye/arcana_luye_wallstorage_6/arcana_luye_wallstorage_6.object"
+  },
+
+  // Arcana Lykoi
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_1", "value": "objects/arcana_lykoi/arcana_lykoi_storage_1/arcana_lykoi_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_2", "value": "objects/arcana_lykoi/arcana_lykoi_storage_2/arcana_lykoi_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lykoi_storage_3", "value": "objects/arcana_lykoi/arcana_lykoi_storage_3/arcana_lykoi_storage_3.object"
   }
 ]
 

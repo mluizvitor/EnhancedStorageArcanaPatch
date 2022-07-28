@@ -166,6 +166,29 @@
   },
   {
     "op": "add", "path": "/supportedContainers/arcana_exousia_ship_storage_6", "value": "objects/arcana_exousia/arcana_exousia_ship/arcana_exousia_ship_storage_6/arcana_exousia_ship_storage_6.object"
+  },
+
+  // Arcana Lunar
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_1", "value": "objects/arcana_lunar/arcana_lunar_storage_1/arcana_lunar_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_2", "value": "objects/arcana_lunar/arcana_lunar_storage_2/arcana_lunar_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_3", "value": "objects/arcana_lunar/arcana_lunar_storage_3/arcana_lunar_storage_3.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_4", "value": "objects/arcana_lunar/arcana_lunar_storage_4/arcana_lunar_storage_4.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_5", "value": "objects/arcana_lunar/arcana_lunar_storage_5/arcana_lunar_storage_5.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_6", "value": "objects/arcana_lunar/arcana_lunar_storage_6/arcana_lunar_storage_6.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/arcana_lunar_storage_7", "value": "objects/arcana_lunar/arcana_lunar_storage_7/arcana_lunar_storage_7.object"
   }
 ]
 

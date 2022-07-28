@@ -278,6 +278,20 @@
   },
   {
     "op": "add", "path": "/supportedContainers/arcana_steelblades_storage_8", "value": "objects/arcana_steelblades/arcana_steelblades_storage_8/arcana_steelblades_storage_8.object"
+  },
+
+  // Havencrest
+  {
+    "op": "add", "path": "/supportedContainers/havencrest_bookcase_1", "value": "objects/havencrest/havencrest_bookcase_1/havencrest_bookcase_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/havencrest_storage_1", "value": "objects/havencrest/havencrest_storage_1/havencrest_storage_1.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/havencrest_storage_2", "value": "objects/havencrest/havencrest_storage_2/havencrest_storage_2.object"
+  },
+  {
+    "op": "add", "path": "/supportedContainers/havencrest_storage_3", "value": "objects/havencrest/havencrest_storage_3/havencrest_storage_3.object"
   }
 ]
 

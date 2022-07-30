@@ -585,6 +585,62 @@
     "path": "/supportedContainers/orion_storage_7",
     "value": "objects/orion/orion_storage_7/orion_storage_7.object"
   },
+  // Workshop
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_1",
+    "value": "objects/workshop/workshop_container_1/workshop_container_1.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_2",
+    "value": "objects/workshop/workshop_container_2/workshop_container_2.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_3",
+    "value": "objects/workshop/workshop_container_3/workshop_container_3.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_4",
+    "value": "objects/workshop/workshop_container_4/workshop_container_4.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_5",
+    "value": "objects/workshop/workshop_container_5/workshop_container_5.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_6",
+    "value": "objects/workshop/workshop_container_6/workshop_container_6.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_7",
+    "value": "objects/workshop/workshop_container_7/workshop_container_7.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_8",
+    "value": "objects/workshop/workshop_container_8/workshop_container_8.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_9",
+    "value": "objects/workshop/workshop_container_9/workshop_container_9.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_10",
+    "value": "objects/workshop/workshop_container_10/workshop_container_10.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/workshop_container_11",
+    "value": "objects/workshop/workshop_container_11/workshop_container_11.object"
+  },
   // Misc
   {
     "op": "add",
